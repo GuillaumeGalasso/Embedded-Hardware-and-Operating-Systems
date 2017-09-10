@@ -13,42 +13,42 @@ Course achieved with a score of 96.0% (**[Certificate](https://www.coursera.org/
 ## Syllabus
 
 #### Week 1: Introduction to Embedded Hardware
-1.1 Introduction to Embedded System
-1.2 Design Characteristics and challenges
-1.3 Input/ Output Devices
-1.4 Wire Communication, ADC/DAC
-1.5 Sensors, Actuators, Interrupt vs Polling
+1.1 Introduction to Embedded System \
+1.2 Design Characteristics and challenges \
+1.3 Input/ Output Devices \
+1.4 Wire Communication, ADC/DAC \
+1.5 Sensors, Actuators, Interrupt vs Polling \
 
 Quiz 1: Introduction to Embedded HW
 
 #### Week 2: Processing Elements of an Embedded System
-2.1 Embedded Processor and FPGA
-2.2 Main features of Embedded Processor
-2.3 Use cases of Micro-controller's platforms
-2.4 Reconfigurable platform, FPGA's platform
-2.5 Embedded Processor vs FPGA
+2.1 Embedded Processor and FPGA \
+2.2 Main features of Embedded Processor \
+2.3 Use cases of Micro-controller's platforms \
+2.4 Reconfigurable platform, FPGA's platform \
+2.5 Embedded Processor vs FPGA \
 
 Quiz 2: Processing elements
 
 #### Week 3: Overview of operating systems and embedded operating systems
-3.1 Embedded Operating System
-3.2 Linux kernel functions and advantages
-3.3 Microkernel
-3.4 Modular kernel
-3.5 Introduction to Contiki
-3.6 Introduction to TinyOS
-3.7 Introduction to RIOT OS
+3.1 Embedded Operating System \
+3.2 Linux kernel functions and advantages \
+3.3 Microkernel \
+3.4 Modular kernel \
+3.5 Introduction to Contiki \
+3.6 Introduction to TinyOS \
+3.7 Introduction to RIOT OS \
 
 Quiz 3: Embedded Operating Systems
 
 #### Week 4: Contiki OS and Cooja simulation
-4.1 Contiki and Cooja simulation
-4.2 Contiki's system
-4.3 Contiki's kernel architecture
-4.4 Contiki services and libraries
-4.5 Communication in Contiki
-4.6 Communication in Contiki (con't)
-4.7 Protothread, multithreading and code sizes
+4.1 Contiki and Cooja simulation \
+4.2 Contiki's system \
+4.3 Contiki's kernel architecture \
+4.4 Contiki services and libraries \
+4.5 Communication in Contiki \
+4.6 Communication in Contiki (con't) \
+4.7 Protothread, multithreading and code sizes \
 4.8 Cooja simulation
 
 Quiz 4: Contiki and Cooja \
