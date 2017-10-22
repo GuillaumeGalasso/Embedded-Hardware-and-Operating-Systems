@@ -8,7 +8,7 @@ The course teaches how to apply Embedded Operating Systems on your own Embedded 
 
 The assignments are based on Contiki Operating System.
 
-Course achieved with a score of 96.0% (**[Certificate](https://www.coursera.org/account/accomplishments/records/7T8B5X9UC5DD)** available)
+Course achieved with a score of 96.0% (**[Certificate](certificate_ZJCYNKEFSUY9.pdf)** and **[Course informations](https://www.coursera.org/account/accomplishments/verify/ZJCYNKEFSUY9)** available)
 
 ## Syllabus
 
